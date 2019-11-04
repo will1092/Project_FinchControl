@@ -9,11 +9,11 @@ namespace Project_FinchControl
     // **************************************************
     //
     // Title: Finch Control
-    // Description: 
+    // Description: Controls the Finch Robot
     // Application Type: Console
-    // Author: 
+    // Author: Cody Williams
     // Dated Created: 
-    // Last Modified: 
+    // Last Modified: November 3, 2019
     //
     // **************************************************
 
@@ -35,7 +35,7 @@ namespace Project_FinchControl
 
         static void Main(string[] args)
         {
-            SetTheme();
+            //SetTheme();
 
             DisplayWelcomeScreen();
             DisplayMainMenu();

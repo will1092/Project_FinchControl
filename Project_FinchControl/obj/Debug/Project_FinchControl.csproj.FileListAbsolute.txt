@@ -68,3 +68,15 @@ C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl
 C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
 C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
 C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Data.txt
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Data\Data.txt
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Data\Theme.txt
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Data\Theme2.txt
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\cody_\Downloads\Project_FinchControl-master\Project_FinchControl-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
