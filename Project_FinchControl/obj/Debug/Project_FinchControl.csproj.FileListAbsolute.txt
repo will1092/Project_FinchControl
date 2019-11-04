@@ -1,0 +1,70 @@
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\Cody Williams\Documents\CIT 110\Week 06\Project_FinchControl.Str\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\Cody\Downloads\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CoreCompileInputs.cache
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\will1092\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+D:\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+D:\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+D:\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+D:\FinchRobot-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+D:\FinchRobot-master\Project_FinchControl\bin\Debug\HidSharp.dll
+D:\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+D:\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+D:\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+D:\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Data.txt
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Theme.txt
+C:\Users\cody_\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Theme2.txt
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Theme.txt
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Theme2.txt
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
+C:\Users\Cody\Downloads\FinchRobot-master\FinchRobot-master\Project_FinchControl\bin\Debug\Data\Data.txt
